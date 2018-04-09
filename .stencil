@@ -1,0 +1,12 @@
+{
+  "normalStoreUrl": "http://gear-bigcommerce-stencil-theme.mybigcommerce.com/",
+  "port": "2200",
+  "clientId": "eoju43mm3vs3n1k7levpt1zezy44pgf",
+  "accessToken": "acl7y6roorykuft117rxge0yvqkflwf",
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  }
+}
